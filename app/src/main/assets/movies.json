@@ -1,0 +1,34 @@
+{
+  "movies":[
+    {
+      "rating":8,
+      "title":"Droid Runner 2049",
+      "posterUri":"droid_runner",
+      "overview":"A young droid runner's discovery of a long-buried secret leads him to track down former droid runner Rick Droid, who's been missing for thirty years."
+    },
+    {
+      "title":"Wonder Droid",
+      "rating":7,
+      "posterUri":"wonder_droid",
+      "overview":"A Google droid comes to the world of Man to become the greatest of the droid superheroes."
+    },
+    {
+      "title":"Dawn of the Planet of the Droids",
+      "rating":7,
+      "posterUri":"dawn",
+      "overview":"A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Andy tries to maintain dominance over his community of intelligent droids."
+    },
+    {
+      "title":"The Lego Droid Movie",
+      "rating":7,
+      "posterUri":"lego",
+      "overview":"In the irreverent spirit of fun that made “The Lego Movie” a worldwide phenomenon, the self-described leading droid of that ensemble—Lego Droid—stars in his own big-screen adventure."
+    },
+    {
+      "title":"Despicable Droid 3",
+      "rating":6,
+      "posterUri":"despicable",
+      "overview":"Andy and his wife Lucy must stop former '80s child star Balthazar Droid from achieving world domination."
+    }
+  ]
+}

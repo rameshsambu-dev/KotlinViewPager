@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">FavoriteMovies</string>
+  <string name="prev_button_text">Prev</string>
+  <string name="next_button_text">Next</string>
+</resources>
